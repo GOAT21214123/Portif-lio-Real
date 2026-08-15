@@ -6,6 +6,9 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+.vs/
+bin/
+obj/
 
 # Additional Ruby/bundler ignore for when you run: bundle install
 /vendor
